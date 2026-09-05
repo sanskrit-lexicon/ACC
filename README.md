@@ -15,7 +15,7 @@ and where" — the reason it was digitized as part of the
 It is a *meta*-work: its entries are Sanskrit **work and author names** with
 subject tags (e.g. `jy.` jyotiṣa, `poet`, `archit.`) and references to
 manuscript catalogues — not a word-dictionary. The canonical source text lives
-in [csl-orig/v02/acc/acc.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/acc/acc.txt)
+in [csl-orig/v02/acc/acc.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/acc/acc.txt)
 (49,833 `<L>` entry records; 48,230 distinct L-numbers); this repository holds
 the development, correction, and enrichment work and tracks corrections as
 GitHub issues under the shared Sanskrit Lexicon taxonomy.

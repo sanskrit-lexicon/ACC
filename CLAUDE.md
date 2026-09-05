@@ -8,7 +8,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **ACC** is the development and correction repository for **Theodor Aufrecht's *Catalogus Catalogorum: an Alphabetical Register of Sanskrit Works and Authors***, a bibliographic catalogue of Sanskrit works and their authors, within the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL).
 
-- **Canonical source text**: [`csl-orig/v02/acc/acc.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/acc/acc.txt) (32,576 catalog entries) — corrections are applied to that file, not stored here.
+- **Canonical source text**: [`csl-orig/v02/acc/acc.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/acc/acc.txt) (32,576 catalog entries) — corrections are applied to that file, not stored here.
 - This repository holds **development artifacts**: corrections, markup, comparison, and per-issue working files.
 - A *meta*-work: its entries are Sanskrit **work and author names** with subject tags (e.g. `jy.` jyotiṣa, `poet`, `archit.`) and references to manuscript catalogues — not a word-dictionary.
 
