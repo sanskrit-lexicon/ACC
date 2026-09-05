@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Front matter — English
 
-Per-page files: `accprefNN.md`. Index: [README.md](README.md).
+Per-page files: `accprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/ACC/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -917,3 +919,5 @@ The sign C¤: marks a commentary, CC-¤ a subcommentary, and so forth.
 Bonn, 23. 9. 1896.
 
 THE AUTHOR. Acc
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 22-05-2026 · Last updated: 05-09-2026_
+
 ### Location
 
 Counterpart of https://github.com/sanskrit-lexicon/PWG/issues/175 (PWG) and https://github.com/sanskrit-lexicon/PWK/issues/113 (PWK) for `acc.txt`.
@@ -60,3 +62,5 @@ Outputs: `acc_fixed.txt` (byte-identical to source), `markup_fix_changes.txt` (e
 ### Severity
 
 `minor`
+
+_Dr. Mārcis Gasūns_

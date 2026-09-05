@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: (html text layer; no per-page PNG for acc)
 source_page: Front Matter
@@ -646,3 +648,5 @@ y r l v
 Бонн, 23. 9. 1896.
 
 АВТОР. Acc
+
+_Dr. Mārcis Gasūns_
