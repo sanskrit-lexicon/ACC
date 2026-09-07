@@ -9,6 +9,6 @@ Russian translations: add as `.ru.md` (Phase 4).
 | NN | Section | Source |
 |---|---|---|
 | 01 | Front Matter | [accpref01.md](https://github.com/sanskrit-lexicon/ACC/blob/main/prefaces/accpref01.md) |
-| 02 | csldoc | [accpref02.md](accpref02.md) |
+| 02 | csldoc | accpref02.md |
 
 _Dr. Mārcis Gasūns_
