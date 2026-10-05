@@ -1,5 +1,7 @@
 # ACC — Aufrecht *Catalogus Catalogorum* (1891–1903)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151272.svg)](https://doi.org/10.5281/zenodo.23151272)
+
 _Created: 16-05-2026 · Last updated: 11-07-2026_
 
 Aufrecht's *Catalogus Catalogorum* is the closest thing pre-digital Sanskrit
