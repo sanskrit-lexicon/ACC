@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151272.svg)](https://doi.org/10.5281/zenodo.23151272)
 
-_Created: 16-05-2026 · Last updated: 11-07-2026_
+_Created: 28-05-2017 · Last updated: 05-11-2026_
 
 Aufrecht's *Catalogus Catalogorum* is the closest thing pre-digital Sanskrit
 studies had to a union catalogue: a 19th-century, three-volume alphabetical
@@ -74,7 +74,7 @@ that a normal dictionary doesn't.
 
 ## Projects & Milestones
 
-Issue counts below are current as of 11-07-2026.
+Issue counts below are current as of 05-11-2026.
 
 | Milestone | Open | Closed | Total |
 |---|---|---|---|
@@ -160,8 +160,8 @@ pie showData
 
 | Contributor | Commits |
 |---|---|
-| gasyoun (Mārcis Gasūns) | 8 |
-| drdhaval2785 | 1 |
+| gasyoun (Mārcis Gasūns) | 32 |
+| drdhaval2785 | 2 |
 
 ## Source
 
